@@ -1,5 +1,1 @@
-Addition: 8
-Subtraction: 2
-Multiplication: 15
-Division: 1.67
-Modulus: 2
+value of a: 50
