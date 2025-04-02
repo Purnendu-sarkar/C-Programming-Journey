@@ -1,0 +1,8 @@
+Addition: 11
+Subtraction: 1
+Multiplication: 30
+Division: 1.20
+Power: 7776.00
+Modulus: 1
+Increment: 7
+Decrement: 4
