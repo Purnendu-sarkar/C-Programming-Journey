@@ -1,0 +1,2 @@
+You entered day: 5
+Friday
