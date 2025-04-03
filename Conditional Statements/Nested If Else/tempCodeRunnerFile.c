@@ -1,0 +1,1 @@
+printf("Enter your gender (M/F): ");
