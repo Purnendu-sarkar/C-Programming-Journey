@@ -14,7 +14,7 @@ int main() {
 // int main() {
 //     long long int a;
 
-//     scanf("%lld", &a); // %d is the format specifier for int
+//     scanf("%lld", &a);
 
 //     printf("%lld\n", a); // %d is the format specifier for int
 
